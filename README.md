@@ -1,4 +1,4 @@
-# CrawlerFor98_2.0
+# CrawlerFor98_2.1
 这是一个自动收集98堂中文区信息的爬虫软件
 
 点击clone或者downloadzip按钮下载
