@@ -27,7 +27,7 @@ c. 新版增加多线程运行功能：可自定义线程数：图片下载线�
 
 ###### 	2）软件配置说明
 
-https://github.com/abcabc2020/abc_ImgRepo/blob/master/config1.png
+![Image text](https://github.com/abcabc2020/abc_ImgRepo/blob/master/config1.png)
 
 **a. 数据存放文件夹：**存放爬虫数据以及配置数据的文件夹，如果不存在会根据配置文件里的信息自动生成，如果没有什么特殊需要请不要乱动
 
