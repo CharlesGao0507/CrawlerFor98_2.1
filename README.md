@@ -13,6 +13,10 @@
 
 ![123](https://github.com/abcabc2020/abc_ImgRepo/blob/master/C3.png)
 
+**文件更名软件结果展示：**
+
+![125](https://github.com/abcabc2020/abc_ImgRepo/blob/master/C4.png)
+
 #### 二. 软件功能说明&包含文件说明
 
 ##### 	1. CrawlerForS_x.x
